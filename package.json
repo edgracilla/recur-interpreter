@@ -1,0 +1,22 @@
+{
+  "name": "recur-interpreter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgracilla/recur-interpreter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgracilla/recur-interpreter/issues"
+  },
+  "homepage": "https://github.com/edgracilla/recur-interpreter#readme",
+  "dependencies": {
+    "rrule": "^2.6.8"
+  }
+}
